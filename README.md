@@ -7,7 +7,7 @@
 https://api.telegram.org/bot<token>/METHOD_NAME
 
 ## 拿到发送给机器人的信息
-https://api.telegram.org/<token>/getUpdates?timeout=60
+* https://api.telegram.org/<token>/getUpdates?timeout=60
 
 ## 使用开发语言创建 机器人
 https://core.telegram.org/bots/samples
