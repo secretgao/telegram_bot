@@ -30,8 +30,13 @@ https://my.telegram.org/apps
 
 bot API
 https://core.telegram.org/bots/api
+##### 
+https://core.telegram.org/bots/api#chatmember
+```
+"creator" | "administrator" | "member" | "restricted" | "left" | "kicked";
 
-
+所有者 | 管理员| 会员|受限|离开|被封禁
+```
 #### 第三步 创建数据库表结构入下 并修改项目 .env.example 文件改成 .env
 
 项目表结构
